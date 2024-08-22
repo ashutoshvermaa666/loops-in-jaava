@@ -1,3 +1,5 @@
+// CODE TO PRINT  ALL THE PATTERN ACCORDING TO THE USER NEED 
+
 import java.util.Scanner;
 
 public class ProgramOfLoops {
